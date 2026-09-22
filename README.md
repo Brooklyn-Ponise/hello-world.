@@ -1,2 +1,3 @@
-# hello-world.
-A first GitHub practice repository.
+# My first repository
+
+This is my first GitHub repository.
